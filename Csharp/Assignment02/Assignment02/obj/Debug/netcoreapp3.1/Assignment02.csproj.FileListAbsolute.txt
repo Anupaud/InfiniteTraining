@@ -1,0 +1,14 @@
+C:\Users\anupad\source\repos\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.exe
+C:\Users\anupad\source\repos\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.deps.json
+C:\Users\anupad\source\repos\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.runtimeconfig.json
+C:\Users\anupad\source\repos\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.runtimeconfig.dev.json
+C:\Users\anupad\source\repos\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.dll
+C:\Users\anupad\source\repos\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.pdb
+C:\Users\anupad\source\repos\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.csproj.AssemblyReference.cache
+C:\Users\anupad\source\repos\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anupad\source\repos\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.AssemblyInfoInputs.cache
+C:\Users\anupad\source\repos\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.AssemblyInfo.cs
+C:\Users\anupad\source\repos\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.csproj.CoreCompileInputs.cache
+C:\Users\anupad\source\repos\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.dll
+C:\Users\anupad\source\repos\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.pdb
+C:\Users\anupad\source\repos\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.genruntimeconfig.cache
